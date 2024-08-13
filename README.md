@@ -1,6 +1,6 @@
 # web-scrapping
 
-active python: `scrapping\Scripts\activate`;
+active python: `.\venv\Scripts\activate`;
 
 to code, code inside of the inscrapping
 
